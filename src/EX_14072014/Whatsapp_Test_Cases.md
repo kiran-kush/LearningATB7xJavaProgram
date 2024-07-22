@@ -23,4 +23,6 @@ Scenarios1. Verify  the whatsapp feature for new user:
 19. verify user is able to send the images and video in the groups or a person.
 20. Verify user is able to broadcast a message.
 21. Verify user is able to create community and set the permission for the same.
-22. 
+Scenario: Verify the whataspp feature for existing user:
+
+    
